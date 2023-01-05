@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KemalCicek1&show_icons=true&theme=tokyonight&hide_border=true) 
+![Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KemalCicek&show_icons=true&theme=tokyonight&hide_border=true) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KemalCicek&theme=tokyonight&hide_border=true&border_radius=4,5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    
