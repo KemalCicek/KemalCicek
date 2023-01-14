@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KemalCicek.visitor-badge&left_text=Profile%20views) 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/5d1e914f-cefb-4c8d-b22e-d27b3bb912fe.png" /></a>
+<a href="https://wakatime.com/share/@ef9129de-3263-4ec6-b0e8-44d0041247cd/e82003c8-ccd8-4c2b-9cde-5b207cd35637.svg" /></a>
 
 <a href="https://github.com/KemalCicek/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=KemalCicek&row=1&column=7&theme=darkhub" alt="KemalCicek" />
